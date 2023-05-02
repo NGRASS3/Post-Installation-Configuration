@@ -17,7 +17,7 @@ This tutorial demonstrates the post configuration setup of the osTicket system.<
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Post-Install Configuration Objectives</h2>
 
 - Azure Virtual Machine
 - osTicket Installation files
