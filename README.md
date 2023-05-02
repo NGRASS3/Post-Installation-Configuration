@@ -49,4 +49,7 @@ Now that we have created some roles and groups we will allow anyone to create a 
 ![image](https://user-images.githubusercontent.com/111653930/235704683-ed7b5fb9-7eab-49d7-9300-4fca4019a6a0.png)
 
 
+Now we will create Agents. Agents are the employees of the helpdesk that actually work on solving tickets. To create Agents go to Admin Panel -> Agents -> Add New. Agents are assigned primary departments and given a primary role for tickets sent to their department. Agents can be given access to other departments other than their own, they can also have different roles depending on which department they are in. Permissions, Access, & Teams are be assigned in the Agents tab.
+
+![image](https://user-images.githubusercontent.com/111653930/235709361-a0416c30-9b54-49b5-84bf-c32718a14956.png)
 
