@@ -19,9 +19,9 @@ This tutorial demonstrates the post configuration setup of the osTicket system.<
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Azure Virtual Machine
-- osTicket Installation files
-- Heidi SQL
+- Configure Roles / Departments / Teams / Agents / Users
+- Configure multiple Service Level Agreements
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
