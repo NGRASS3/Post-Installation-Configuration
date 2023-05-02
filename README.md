@@ -53,3 +53,9 @@ Now we will create Agents. Agents are the employees of the helpdesk that actuall
 
 ![image](https://user-images.githubusercontent.com/111653930/235709361-a0416c30-9b54-49b5-84bf-c32718a14956.png)
 
+
+Next we will configure the Users. In this context Users will be the people you will be providing support to as an Agent. They are the owners of the tickets and are associated with an email address. To add a user go to the Agent Panel Agent Panel -> Users -> Add New. 
+
+![image](https://user-images.githubusercontent.com/111653930/235711014-6a2030b7-ce2b-43d8-b9c4-1ca87e5a3aa8.png)
+
+
