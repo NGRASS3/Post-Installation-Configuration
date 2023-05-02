@@ -34,6 +34,8 @@ To start create a new role entitled "Supreme Admin". Click Admin Panel -> Agents
 
 Next we will create a new Department. Select the Departments tab within the Agents tab, Admin Panel -> Agents -> Departments. Click "Add New Department" and name it System Administrators. Each Agent is assigned to a specific department depending on their assigned role within the helpdesk. In this case we will be creating the "System Administrators" department, this is where the Supreme Admins will be designated. Other specific settings such as SLAs, managers and other email settings can be set up in the departments tab.
 
-![image](https://user-images.githubusercontent.com/111653930/235700707-1e8f3f25-8c6e-4bd1-97fd-00cdd5422cd9.png)
+![image](https://user-images.githubusercontent.com/111653930/235701515-b1bffc57-d445-4b89-8881-a3ae1641a43f.png)
 
+
+Next we will configure some Teams. Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter. 
 
