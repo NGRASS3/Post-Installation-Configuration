@@ -32,3 +32,5 @@ To start create a new role entitled "Supreme Admin". Click Admin Panel -> Agents
 ![image](https://user-images.githubusercontent.com/111653930/235697675-9476a9ca-2d33-4c3e-b8ec-a4dae7af0d03.png)
 
 
+Next we will create a Department. 
+
