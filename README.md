@@ -37,5 +37,12 @@ Next we will create a new Department. Select the Departments tab within the Agen
 ![image](https://user-images.githubusercontent.com/111653930/235701515-b1bffc57-d445-4b89-8881-a3ae1641a43f.png)
 
 
-Next we will configure some Teams. Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter. 
+Next we will configure some Teams. Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter. To setup a team click Admin Panel -> Agents -> Teams -> Add New Team. Title this team Level II Support.
+
+![image](https://user-images.githubusercontent.com/111653930/235702794-34024aaa-c3ca-452e-ac1b-f0fa6ef04344.png)
+
+
+
+
+
 
