@@ -23,7 +23,7 @@ This tutorial demonstrates the post configuration setup of the osTicket system.<
 - osTicket Installation files
 - Heidi SQL
 
-<h2>Installation Steps</h2>
+<h2>Configuration Steps</h2>
 
 <p>Welcome to my first tutorial! To get things started we will create a new Virtual Machine using the Microsoft Azure Platform. Begin by creating a new resource group called "RG-osTicket". Once your resource group is made create a new Virtual Machine and name it "vm-osticket". Make sure this Virtual Machine is set to Windows 10 and has 2-4 vcpu's.</p>
 
