@@ -43,6 +43,7 @@ Next we will configure some Teams. Teams allow you to pull Agents from different
 ![image](https://user-images.githubusercontent.com/111653930/235702794-34024aaa-c3ca-452e-ac1b-f0fa6ef04344.png)
 
 
+
 Now that we have created some roles and groups we will allow anyone to create a new ticket into the system. Click Admin Panel -> Settings -> User Settings. From here make sure "Require registration and login to create tickets" is **unchecked.** 
 
 ![image](https://user-images.githubusercontent.com/111653930/235704683-ed7b5fb9-7eab-49d7-9300-4fca4019a6a0.png)
