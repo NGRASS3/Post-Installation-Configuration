@@ -64,3 +64,10 @@ SLAs or Service Level Agreements are plans that provide a length of time in whic
 ![image](https://user-images.githubusercontent.com/111653930/235712933-5bf417c9-3043-4b1a-aa43-f156d9c79ea5.png)
 
 
+To conclude the post-install configuration we will create Help Topics. Help Topics streamline your end-users help desk experience to ensure proper assignment and prompt response to the ticket. To create a Help Topic go to Admin Panel -> Manage -> Help Topics and click Add New Help Topic. In the example below if online banking went down a user could select Business Critical Outage. Another example could be if a user needed a new monitor they could select Equipment Request.
+
+![image](https://user-images.githubusercontent.com/111653930/235715449-3ffb5fbc-93a6-449d-a798-7cf62f804671.png)
+
+
+
+
