@@ -11,6 +11,8 @@ This tutorial demonstrates the post configuration setup of the osTicket system.<
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
+- Internet Information Services (IIS)
+
 
 <h2>Operating Systems Used </h2>
 
