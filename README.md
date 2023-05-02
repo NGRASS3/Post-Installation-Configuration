@@ -27,4 +27,4 @@ This tutorial demonstrates the post configuration setup of the osTicket system.<
 
 Now that we have osTicket installed and running we will begin to configure various settings within the application as an Admin. For more information please refer to the original documentation located at: https://docs.osticket.com/en/latest/ 
 
-We will create an initial role called "Supreme Admin"
+To start create a new role entitled "Supreme Admin". Click Admin Panel -> Agents -> Roles -> Add New Role
