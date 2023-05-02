@@ -59,3 +59,8 @@ Next we will configure the Users. In this context Users will be the people you w
 ![image](https://user-images.githubusercontent.com/111653930/235711014-6a2030b7-ce2b-43d8-b9c4-1ca87e5a3aa8.png)
 
 
+SLAs or Service Level Agreements are plans that provide a length of time in which the help desk Administrator expects a ticket to be closed. To create a SLA Plan go to Admin Panel -> Manage -> SLA and click Add New SLA Plan. Each SLA has a schedule and within that schedule there is a grace period. In this example SEV-A has a 24/7 schedule and a one hour grace period, meaning if a SEV-A Ticket arrived Sunday night at 10pm it would need to be solved by 11pm the same day. 
+
+![image](https://user-images.githubusercontent.com/111653930/235712933-5bf417c9-3043-4b1a-aa43-f156d9c79ea5.png)
+
+
